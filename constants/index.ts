@@ -1,6 +1,6 @@
 export * from './colors';
 
-export const APP_NAME = 'AppSnap';
+export const APP_NAME = 'Teamly';
 
 export const ROLES = {
   COACH: 'coach',
